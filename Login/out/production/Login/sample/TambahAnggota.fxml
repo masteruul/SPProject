@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="64.0" layoutY="24.0" text="TAMBAH ANGGOTA" />
+      <Label layoutX="95.0" layoutY="92.0" text="Nama" />
+      <Label layoutX="92.0" layoutY="146.0" prefHeight="0.0" prefWidth="38.0" text="Alamat" />
+      <Label layoutX="97.0" layoutY="120.0" text="TTL" />
+      <Label layoutX="95.0" layoutY="66.0" text="NIM" />
+      <Label layoutX="94.0" layoutY="173.0" text="No HP" />
+      <Label layoutX="93.0" layoutY="200.0" text="Id Line " />
+      <Label layoutX="91.0" layoutY="225.0" text="Jurusan" />
+      <Label layoutX="90.0" layoutY="251.0" text="Fakultas" />
+      <Label layoutX="88.0" layoutY="277.0" text="Anggota" />
+      <TextField layoutX="164.0" layoutY="62.0" />
+      <TextField layoutX="164.0" layoutY="88.0" />
+      <TextField layoutX="164.0" layoutY="116.0" />
+      <TextField layoutX="164.0" layoutY="142.0" />
+      <TextField layoutX="164.0" layoutY="169.0" />
+      <TextField layoutX="164.0" layoutY="196.0" />
+      <TextField layoutX="164.0" layoutY="221.0" />
+      <TextField layoutX="164.0" layoutY="247.0" />
+      <TextField layoutX="164.0" layoutY="273.0" />
+      <Button layoutX="427.0" layoutY="300.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="76.0" text="Tambah" />
+   </children>
+</AnchorPane>

@@ -18,5 +18,6 @@
       <Button layoutX="353.0" layoutY="188.0" mnemonicParsing="false" prefHeight="52.0" prefWidth="129.0" text="ADMINISTRASI" />
       <Button layoutX="101.0" layoutY="261.0" mnemonicParsing="false" prefHeight="52.0" prefWidth="129.0" text="PRESTASI" />
       <Button layoutX="353.0" layoutY="261.0" mnemonicParsing="false" prefHeight="52.0" prefWidth="129.0" text="GALERY" />
+      <Button layoutX="550.0" layoutY="374.0" mnemonicParsing="false" text="Keluar" />
    </children>
 </Pane>
